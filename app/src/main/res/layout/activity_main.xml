@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.andrea.udaciquiz.MainActivity"
+    android:orientation="vertical"
+    android:background="@color/white">
+    <TextView
+        style="@style/title_box"
+        android:textAlignment="center"
+        android:text="@string/app_name"
+        android:id="@+id/textView"/>
+    <VideoView
+        android:id="@+id/gif"
+        style="@style/video_view"/>
+    <EditText
+        android:id="@+id/nick_box"
+        android:hint="@string/nick_edit"
+        style="@style/main_edit"/>
+    <Button
+        android:id="@+id/button_start"
+        android:text="@string/start_button"
+        style="@style/button_start"
+        android:theme="@style/button_start"/>
+</RelativeLayout>
+

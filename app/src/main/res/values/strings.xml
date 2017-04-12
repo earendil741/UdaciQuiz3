@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">UdaciQuiz</string>
+    <string name="nick_edit">Insert Nickname</string>
+    <string name="start_button">Start</string>
+    <string name="user_name">User</string>
+    <string name="next">finish</string>
+    <string name="previous">previous</string>
+    <string name="letgo">Let\'s go</string>
+    <string name="question_1">What kind of views you should use if you need to ask a nickname to the user in the app?</string>
+    <string name="question_2">If you need to overlap two views you can use Linearlayout? If no, which you can use?</string>
+    <string name="question_3">If you need to define an integer what kind of variable you should use?</string>
+    <string name="question_4">Wich of this Views can be used as parentview?</string>
+    <string name="question_5">Wich method you have to call if you want to select a specific View in your layout?</string>
+    <string name="answer_1_1" translatable="false">TextView</string>
+    <string name="answer_1_2" translatable="false">ImageView</string>
+    <string name="answer_1_3" translatable="false">EditText</string>
+    <string name="answer_1_4" translatable="false">View</string>
+    <string name="answer_2_1">Yes</string>
+    <string name="answer_2_2" translatable="false">No</string>
+    <string name="answer_3_1" translatable="false">int</string>
+    <string name="answer_3_2" translatable="false">String</string>
+    <string name="answer_3_3" translatable="false">double</string>
+    <string name="answer_3_4" translatable="false">boolean</string>
+    <string name="answer_4_1" translatable="false">ImageView</string>
+    <string name="answer_4_2" translatable="false">ScrollView</string>
+    <string name="answer_4_3" translatable="false">LinearLayout</string>
+    <string name="answer_4_4" translatable="false">ImageButton</string>
+    <string name="answer_5_1" translatable="false">setContentView()</string>
+    <string name="answer_5_2" translatable="false">findViewById()</string>
+    <string name="answer_5_3" translatable="false">setOnClickListner()</string>
+    <string name="answer_5_4" translatable="false">setText()</string>
+    <string name="answer_2_3" translatable="false">RelativeLayout</string>
+    <string name="answer_2_4" translatable="false">\"\"</string>
+    <string name="score_message">"your result is: "</string>
+    <string name="loose_message">You really need to improve! STUDY MORE</string>
+    <string name="good_message">You\'re doing good! Keep on study and you will impruve</string>
+    <string name="win_message">You\'re on the top of the world! Keep on study to stay there!</string>
+</resources>
